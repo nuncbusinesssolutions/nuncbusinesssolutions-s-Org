@@ -1,0 +1,6 @@
+{
+  "name": "KapeOS — Cafe Management System",
+  "description": "Production-grade cafe operations, POS, recipe-linked inventory, KDS, table QR ordering, and shift reconciliation powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
